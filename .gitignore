@@ -1,0 +1,20 @@
+
+# Python environments
+.venv/
+.venv-1/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local environment settings
+.env
+
+# Dataset
+Dataset/
+dataset/
+
+# Temporary files
+.streamlit/
+.DS_Store
